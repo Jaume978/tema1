@@ -5,3 +5,4 @@
 =======
 <?php function saludarPorNombre($nombre) { return "¡Hola, $nombre!"; } ?>
 >>>>>>> rama1
+<?php function despedirse() { return "Adiós!"; } ?>
